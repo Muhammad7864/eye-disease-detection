@@ -1,4 +1,6 @@
 streamlit
-tensorflow
+tensorflow==2.19.0
 numpy
-Pillow
+pillow
+opencv-python-headless
+h5py
